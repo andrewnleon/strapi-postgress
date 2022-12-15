@@ -1,2 +1,4 @@
 node_modules
 backend/yarn.lock
+backup2/yarn.lock
+backend/package-lock.json
